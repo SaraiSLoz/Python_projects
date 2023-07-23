@@ -1,5 +1,5 @@
 # Python_projects
-# There projects consist in:
+# These projects consist in:
 # PISA contest simulation:
 # The project involves designing a code to prepare 15-year-old students for the PISA test, focusing on the mathematics area. 
 # It will consist of two parts: practice exercises and a final exam. 
