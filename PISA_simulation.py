@@ -1,9 +1,11 @@
+#Developed by: Sarai Santiago Lozano and Humberto Pérez Galindo
 from numpy import *
 from sys import*
 import random
 import os
 import time
 numero = False
+#Distribution of the work:
 #Page 1: Saraí
 #Page 4: Saraí/Humberto
 #Page  4.x: Los dos
